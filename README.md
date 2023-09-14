@@ -29,5 +29,5 @@ The Results provide insights for the custome food order behaviour and also on th
 
 ## Usage
 1. Clone this repository to your local machine.
-2. Execute the SQL queries in `SQLQueries.sql` using your preferred database management tool.
+2. Execute the SQL queries in `Swiggy_analysis.sql` using your preferred database management tool.
 3. Analyze the results to gain insights on online food delivery application customer data
